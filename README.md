@@ -18,3 +18,5 @@ Requirements for developing this code
 -Basic knowledge of Debian Linux
 -Basic knowledge of UDP and TCP protocols
 -Study of socket and threads libraries
+
+You can find above two versions of each file (Server, Flood, and documentation) in Italian and English (identified with the abbreviation ENG).
